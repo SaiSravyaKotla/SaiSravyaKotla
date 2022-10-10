@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaiSravyaKotla
 - 👀 I’m interested in Reading and food
 - 🌱 I’m currently learning Data and Web Programming
-- 📫 I can be com=ntacted by email.
+- 📫 I can be contacted by email.
 
 <!---
 SaiSravyaKotla/SaiSravyaKotla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
